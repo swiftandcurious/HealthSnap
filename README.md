@@ -18,7 +18,7 @@ All values are read-only. HealthSnap never writes data back to Health.
 
 The app will look like this:
 
-![HealthSnap](HealthSnapScreenshotMiddle.png)
+![HealthSnap](HealthSnapScreenshotMiddle.PNG)
 
 If you want to code along, please visit [swiftandcurious](https://swiftandcurious.com) You can find here the code-along for HealthSnap.
 
